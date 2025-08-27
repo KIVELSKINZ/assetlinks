@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kivelskinz.skinzwtds",
+      "sha256_cert_fingerprints": [
+        "92:35:ED:D5:52:2F:8F:0A:6D:6E:EA:92:B5:35:04:18:CD:4D:5C:71:86:8F:1F:9F:FE:2F:1A:69:15:91:23:57:72:0B:09:21"
+      ]
+    }
+  }
+]
